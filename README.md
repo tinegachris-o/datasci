@@ -39,4 +39,5 @@ Install dependencies:
 pipenv install matplotlib pandas
 pipenv shell
 
-Run the project:
+#Below in seaborn
+![seaborn ](./img/heatmap.png)
