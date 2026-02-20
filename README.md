@@ -13,18 +13,18 @@ plt.title("Temperature over hours")
 plt.xlabel("Hour")
 plt.ylabel("Temperature")
 plt.show()
-![Line Graph](graph.png)
+![Line Graph](./img/graph.png)
 
 📊 Bar Chart
-![Bar Graph](bar.png)
+![Bar Graph](./img/bar.png)
 📊 Horizontal Bar Chart
 ![Horizontal Graph](hori.png)
 
 🥧 Pie Chart
-![Pie Graph](pie.png)
+![Pie Graph](./img/pie.png)
 
 🔴 Scatter Plot
-![Scatter Graph](scatter.png)
+![Scatter Graph](./img/scatter.png)
 
 🚀 Tech Stack
 
